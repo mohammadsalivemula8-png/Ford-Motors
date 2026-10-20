@@ -1,1 +1,1 @@
-select current_database() as curr_db,current_schemas() as curr_sc 
+select current_database() as curr_ddatabe,current_schemas() as curr_sc 
